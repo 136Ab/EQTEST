@@ -1,0 +1,64 @@
+[08-Jul-2025 13:52:01 UTC] Error saving response: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_responses`, CONSTRAINT `eq_responses_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[08-Jul-2025 13:52:08 UTC] Error saving response: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_responses`, CONSTRAINT `eq_responses_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[08-Jul-2025 13:52:22 UTC] Error retrieving or saving results: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_results`, CONSTRAINT `eq_results_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[08-Jul-2025 13:52:30 UTC] Error retrieving or saving results: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_results`, CONSTRAINT `eq_results_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[08-Jul-2025 13:52:57 UTC] Error saving response: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_responses`, CONSTRAINT `eq_responses_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[08-Jul-2025 14:00:36 UTC] Error saving response: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_responses`, CONSTRAINT `eq_responses_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[08-Jul-2025 14:00:43 UTC] Error saving response: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_responses`, CONSTRAINT `eq_responses_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[08-Jul-2025 14:01:02 UTC] Error saving response: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_responses`, CONSTRAINT `eq_responses_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[08-Jul-2025 14:01:13 UTC] Error saving response: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_responses`, CONSTRAINT `eq_responses_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[09-Jul-2025 13:07:33 UTC] User not logged in, redirecting to login.php
+[09-Jul-2025 13:07:57 UTC] Invalid login attempt for username Dot
+[09-Jul-2025 13:07:57 UTC] Invalid login attempt for username Dot
+[09-Jul-2025 13:08:28 UTC] User Dot registered successfully
+[09-Jul-2025 13:08:40 UTC] User Dot logged in successfully
+[09-Jul-2025 13:08:40 UTC] Loaded dashboard for user 1, found 0 results
+[09-Jul-2025 13:08:53 UTC] Response saved for question 1, user 1, session 686e69e29d6de
+[09-Jul-2025 13:08:53 UTC] Redirecting to quiz.php?q=2
+[09-Jul-2025 13:09:24 UTC] Response saved for question 2, user 1, session 686e69e29d6de
+[09-Jul-2025 13:09:24 UTC] Redirecting to quiz.php?q=3
+[09-Jul-2025 13:09:28 UTC] Response saved for question 3, user 1, session 686e69e29d6de
+[09-Jul-2025 13:09:28 UTC] Redirecting to quiz.php?q=4
+[09-Jul-2025 13:09:32 UTC] Response saved for question 4, user 1, session 686e69e29d6de
+[09-Jul-2025 13:09:32 UTC] Redirecting to quiz.php?q=5
+[09-Jul-2025 13:09:36 UTC] Response saved for question 5, user 1, session 686e69e29d6de
+[09-Jul-2025 13:09:36 UTC] Redirecting to quiz.php?q=6
+[09-Jul-2025 13:09:40 UTC] Response saved for question 6, user 1, session 686e69e29d6de
+[09-Jul-2025 13:09:40 UTC] Redirecting to quiz.php?q=7
+[09-Jul-2025 13:09:44 UTC] Response saved for question 7, user 1, session 686e69e29d6de
+[09-Jul-2025 13:09:44 UTC] Redirecting to quiz.php?q=8
+[09-Jul-2025 13:09:47 UTC] Response saved for question 8, user 1, session 686e69e29d6de
+[09-Jul-2025 13:09:47 UTC] Redirecting to quiz.php?q=9
+[09-Jul-2025 13:09:52 UTC] Response saved for question 9, user 1, session 686e69e29d6de
+[09-Jul-2025 13:09:52 UTC] Redirecting to quiz.php?q=10
+[09-Jul-2025 13:09:56 UTC] Response saved for question 10, user 1, session 686e69e29d6de
+[09-Jul-2025 13:09:56 UTC] Redirecting to result.php for session 686e69e29d6de
+[09-Jul-2025 13:12:43 UTC] Result saved for user 1, session 686e69e29d6de: score 40, percentage 100
+[10-Jul-2025 14:16:27 UTC] Error saving response: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_responses`, CONSTRAINT `eq_responses_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[10-Jul-2025 14:16:38 UTC] Error saving response: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_responses`, CONSTRAINT `eq_responses_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[10-Jul-2025 14:16:44 UTC] Error saving response: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_responses`, CONSTRAINT `eq_responses_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[10-Jul-2025 14:16:48 UTC] Error retrieving or saving results: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_results`, CONSTRAINT `eq_results_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[10-Jul-2025 14:16:51 UTC] Error retrieving or saving results: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbldksmutejozt`.`eq_results`, CONSTRAINT `eq_results_ibfk_1` FOREIGN KEY (`user_id`) REFERENCES `users` (`id`))
+[10-Jul-2025 14:17:26 UTC] User Go registered successfully
+[10-Jul-2025 14:17:35 UTC] User Go logged in successfully
+[10-Jul-2025 14:17:35 UTC] Loaded dashboard for user 2, found 0 results
+[10-Jul-2025 14:17:43 UTC] Response saved for question 1, user 2, session 686fcb3226634
+[10-Jul-2025 14:17:43 UTC] Redirecting to quiz.php?q=2
+[10-Jul-2025 14:17:45 UTC] Response saved for question 2, user 2, session 686fcb3226634
+[10-Jul-2025 14:17:45 UTC] Redirecting to quiz.php?q=3
+[10-Jul-2025 14:17:46 UTC] Response saved for question 3, user 2, session 686fcb3226634
+[10-Jul-2025 14:17:46 UTC] Redirecting to quiz.php?q=4
+[10-Jul-2025 14:17:49 UTC] Response saved for question 4, user 2, session 686fcb3226634
+[10-Jul-2025 14:17:49 UTC] Redirecting to quiz.php?q=5
+[10-Jul-2025 14:17:51 UTC] Response saved for question 5, user 2, session 686fcb3226634
+[10-Jul-2025 14:17:51 UTC] Redirecting to quiz.php?q=6
+[10-Jul-2025 14:17:53 UTC] Response saved for question 6, user 2, session 686fcb3226634
+[10-Jul-2025 14:17:53 UTC] Redirecting to quiz.php?q=7
+[10-Jul-2025 14:17:55 UTC] Response saved for question 7, user 2, session 686fcb3226634
+[10-Jul-2025 14:17:55 UTC] Redirecting to quiz.php?q=8
+[10-Jul-2025 14:17:57 UTC] Response saved for question 8, user 2, session 686fcb3226634
+[10-Jul-2025 14:17:57 UTC] Redirecting to quiz.php?q=9
+[10-Jul-2025 14:17:58 UTC] Response saved for question 9, user 2, session 686fcb3226634
+[10-Jul-2025 14:17:58 UTC] Redirecting to quiz.php?q=10
+[10-Jul-2025 14:18:00 UTC] Response saved for question 10, user 2, session 686fcb3226634
+[10-Jul-2025 14:18:00 UTC] Redirecting to result.php for session 686fcb3226634
